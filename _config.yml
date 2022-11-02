@@ -7,11 +7,11 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Bunnyhug
 # Description of the Site
 description: A customizable Jekyll portfolio theme
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /WhatATheme/assets/images/mgb.gif
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -22,7 +22,7 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
+email: hello@bunnyhug.games
 facebook_username: thedevslot
 twitter_username: thedevslot
 instagram_username: thedevslot

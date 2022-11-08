@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Bunnyhug"
 description              : "Bunnyhug"
 url                      : "https://viiolaceus.github.io"
-baseurl                  : "/BunnyhugWebsite"
+baseurl                  : #"/BunnyhugWebsite"
 repository               : "viiolaceus/BunnyhugWebsite"
 teaser                   : "/assets/images/MGB_Screenshot_014.png"
 logo                     : "/assets/images/bunnyhug-logo.png"
